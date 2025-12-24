@@ -23,6 +23,15 @@ This project is a Conversational Retrieval-Augmented Generation (RAG) applicatio
    - The system retrieves relevant content from the PDFs and generates concise answers.
 4. **Chat History**:
    - Chat history is stored and used to provide context for follow-up questions.
+  
+## Screenshots
+
+<img width="1512" height="982" alt="Prompt" src="https://github.com/user-attachments/assets/b4ad845f-1088-4cb7-95aa-4d5d19e792cd" />
+
+
+<img width="1512" height="982" alt="Chat_history" src="https://github.com/user-attachments/assets/7efe94cd-ad02-4c22-9128-576910e12544" />
+
+
 
 ## Requirements
 
